@@ -1,0 +1,16 @@
+{
+  "name": "performance",
+  "version": "0.0.0",
+  "description": "Performance",
+  "main": "app.js",
+  "author": {
+    "name": "David.Manrique"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^4.8.6"
+  }
+}

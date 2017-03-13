@@ -1,0 +1,19 @@
+{
+  "name": "time-calculator",
+  "version": "0.0.0",
+  "description": "TimeCalculator",
+  "main": "app.js",
+  "author": {
+    "name": "David.Manrique"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "ping": "^0.2.2",
+    "ping-monitor": "^0.1.6"
+  },
+  "devDependencies": {
+    "gulp-nodemon": "^2.2.1"
+  }
+}
